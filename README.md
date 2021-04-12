@@ -6,6 +6,10 @@ Portfólio do desenvolvedor
 
 O controle das tarefas desse projeto será realizado no GitHub.
 
+## Projeto faltando responsive
+
+O responsive do projeto será feito em breve!
+
 ## Icones
 
 - :package: nova funcionalidade
